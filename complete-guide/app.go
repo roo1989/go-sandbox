@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+// Constants
+const name string = "Ragnar"
+
 func main() {
 	hell_world()
 	values()
